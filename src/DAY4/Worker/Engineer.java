@@ -12,7 +12,7 @@ public abstract class Engineer {
         return skill;
     }
 
-    public void setSkill() {
+    public void setSkill(int i) {
         this.skill = (int) (1 + Math.random() * SkillRandom);
     }
 

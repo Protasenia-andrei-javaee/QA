@@ -2,6 +2,6 @@ package DAY4.Worker;
 
 public class AutomationEngineer extends Engineer {
     public AutomationEngineer(){
-        this.setSkill();
+        this.setSkill(8);
     }
 }
