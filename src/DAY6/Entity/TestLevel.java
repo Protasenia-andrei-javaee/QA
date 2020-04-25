@@ -1,4 +1,4 @@
-package DAY4.Entity;
+package DAY6.Entity;
 
 public enum TestLevel {
     UNIT(1),

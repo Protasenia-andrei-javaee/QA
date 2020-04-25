@@ -1,8 +1,8 @@
-package DAY4.Entity;
+package DAY6.Entity;
 
-import DAY4.Worker.AutomationEngineer;
-import DAY4.Worker.Engineer;
-import DAY4.Worker.TestEngineer;
+import DAY6.Worker.AutomationEngineer;
+import DAY6.Worker.Engineer;
+import DAY6.Worker.TestEngineer;
 
 import java.util.function.Function;
 

@@ -1,4 +1,4 @@
-package DAY4.Worker;
+package DAY6.Worker;
 
 public class AutomationEngineer extends Engineer {
     public AutomationEngineer(){
